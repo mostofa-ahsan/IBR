@@ -1,0 +1,28 @@
+HDR|ibr_10292021020234.txt|1|0|1
+tracking_no|priority|file_path_url|file_path
+0|1||/n01/data/nlp_aeac/itemized_bill_review/charts/Dupont_IB_Ella Mccleary_IB_02252021 to 02282021.pdf
+1|1||/n01/data/nlp_aeac/itemized_bill_review/charts/Kade Diehl IB.pdf
+2|1||/n01/data/nlp_aeac/itemized_bill_review/charts/CAMC_IB_Clint Ellithorp_Claim # 21358265595.pdf
+3|1||/n01/data/nlp_aeac/itemized_bill_review/charts/CAMC_IB_Nancy Nunn_Claim # 21858131287.pdf
+4|1||/n01/data/nlp_aeac/itemized_bill_review/charts/Victoria Cahill Itemized Bill.pdf
+5|1||/n01/data/nlp_aeac/itemized_bill_review/charts/35807012101, Janinto Lucero Oyarvides.pdf
+6|1||/n01/data/nlp_aeac/itemized_bill_review/charts/IB_Tina Wheler.pdf
+7|1||/n01/data/nlp_aeac/itemized_bill_review/charts/IB_Harry Andes_Claim # 21653068802.pdf
+8|1||/n01/data/nlp_aeac/itemized_bill_review/charts/20690511049 - R Spencer.pdf
+9|1||/n01/data/nlp_aeac/itemized_bill_review/charts/Silas Smith_Claim # 35786012312.pdf
+10|1||/n01/data/nlp_aeac/itemized_bill_review/charts/WVU_IB Gerald Blose_Claim 21854759195.pdf
+11|1||/n01/data/nlp_aeac/itemized_bill_review/charts/HMBRFAXP04_2103052132526336.pdf
+12|1||/n01/data/nlp_aeac/itemized_bill_review/charts/Geisinger_IB_ Eva Chmielewski_Claim # 21071439574.pdf
+13|1||/n01/data/nlp_aeac/itemized_bill_review/charts/Dupont_Landon Eddy_Claim # 21455725150.pdf
+14|1||/n01/data/nlp_aeac/itemized_bill_review/charts/WVU_IB_Martha Jacobs_Claim # 21558943254.pdf
+15|1||/n01/data/nlp_aeac/itemized_bill_review/charts/IB_Claim # 21453296565.pdf
+16|1||/n01/data/nlp_aeac/itemized_bill_review/charts/Betsy Stewart_Claim # 21740462937.pdf
+17|1||/n01/data/nlp_aeac/itemized_bill_review/charts/Dupont_IB_Greyson Walls_Claim # 21154041269.pdf
+18|1||/n01/data/nlp_aeac/itemized_bill_review/charts/IB_Claim # 21652750209.pdf
+19|1||/n01/data/nlp_aeac/itemized_bill_review/charts/Geisinger_IB_Brandon Slovinsky_02022021_02212021.pdf
+20|1||/n01/data/nlp_aeac/itemized_bill_review/charts/HMBRFAXP09_2103081209596413.pdf
+21|1||/n01/data/nlp_aeac/itemized_bill_review/charts/WVU_IB_Kenneth Snider_Claim # 21355551213.pdf
+22|1||/n01/data/nlp_aeac/itemized_bill_review/charts/Geisinger_IB_Peter Swistock_DOS 03212021-04152021.pdf
+23|1||/n01/data/nlp_aeac/itemized_bill_review/charts/CAMC_IB_Dana Keen_Claim # 21755930880.pdf
+24|1||/n01/data/nlp_aeac/itemized_bill_review/charts/Itemized Bill_Claim # 21648816099_Markbior Mayom.pdf
+TRL|10292021|020234|25
